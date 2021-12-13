@@ -5,8 +5,8 @@
   "description": "A clean, beautiful and responsive portfolio",
   "source": "src/index.html",
   "scripts": {
-    "start": "parcel",
-    "build": "parcel build"
+    "build": "parcel build",
+    "start": "parcel"
   },
   "keywords": [],
   "author": "Shravan Seth",
