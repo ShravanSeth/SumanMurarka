@@ -6,7 +6,8 @@
   "source": "src/index.html",
   "scripts": {
     "build": "parcel build",
-    "start": "parcel"
+    "start": "parcel",
+    "heroku-postbuild" : "parcel build src/index.html"
   },
   "keywords": [],
   "author": "Shravan Seth",
