@@ -6,7 +6,7 @@
   "source": "src/index.html",
   "scripts": {
     "build": "parcel build",
-    "start": "parcel",
+    "start": "parcel src/index.html --https",
     "heroku-postbuild" : "parcel build src/index.html"
   },
   "keywords": [],
